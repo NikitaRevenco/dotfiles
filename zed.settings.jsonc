@@ -341,7 +341,6 @@
     "dart": true,
     "prisma": true,
     "kotlin": true,
-    "biome": true,
     "graphql": true,
     "nix": true,
     "rainbow-csv": true,
